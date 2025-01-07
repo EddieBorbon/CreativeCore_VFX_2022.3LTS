@@ -1,5 +1,7 @@
 # Visual Effects (VFX) Project 🌟🎇
 
+![Project Screenshot](cover.png) 
+
 ## 🎨 Project Overview
 
 In this project, I explored **particles** and **visual effects** in Unity to enhance scenes with dynamic effects. I experimented with Unity’s Particle Systems and VFX Graph, learning how to choose and configure these tools to create both environmental and burst effects.
