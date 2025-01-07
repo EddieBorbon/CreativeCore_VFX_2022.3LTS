@@ -1,6 +1,6 @@
 # Visual Effects (VFX) Project 🌟🎇
 
-![Project Screenshot](cover.png) 
+![Project Screenshot](chinesevfx.png) 
 
 ## 🎨 Project Overview
 
